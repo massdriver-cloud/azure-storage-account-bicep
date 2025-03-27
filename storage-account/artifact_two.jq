@@ -1,0 +1,1 @@
+.outputs.artifactTwo.value
