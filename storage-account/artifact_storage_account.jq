@@ -1,8 +1,8 @@
 {
   "data":  {
     "infrastructure": {
-      "ari": .outputs.storageAccountId.value,
-      "endpoint": .outputs.storageAccountEndpoint.value
+      "ari": .outputs.storageAccountId,
+      "endpoint": .outputs.storageAccountEndpoint
     },
     "security": {}
   },
